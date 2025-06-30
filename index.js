@@ -18,9 +18,9 @@ app.set('views', path.join(__dirname, 'views'));
 // Update with your own DB info from azure
 const config = {
     user: 'azureuser',
-    password: 'P@ssw0rdssss',
-    server: 'sirbingo.database.windows.net',
-    database: 'LMSschool',
+    password: 'P@ssw0rds',
+    server: 'syedazeezahmed.database.windows.net',
+    database: 'expenss',
     options: {
         encrypt: true,
         enableArithAbort: true
